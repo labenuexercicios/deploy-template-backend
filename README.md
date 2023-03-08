@@ -1,7 +1,8 @@
-# Deploy - Template de Prática
+# Deploy (Back-end) - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
-# Back-end
+# Link para o Front-end
+https://github.com/labenuexercicios/deploy-template-front
 
 ## Instruções para baixar
 
